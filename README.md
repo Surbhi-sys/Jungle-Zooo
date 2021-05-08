@@ -22,7 +22,7 @@ There are a few technical requirements before we start. Please install the follo
  
  #### 1 Clone this repository in your system 
  
-     clone https://github.com/Surbhi-sys/Jungle-Zooo.git
+     git clone https://github.com/Surbhi-sys/Jungle-Zooo.git
  
  ### 2. Run the development console.
  
