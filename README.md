@@ -1,12 +1,12 @@
 # Jungle-Zooo
 A blockchain based dog adoption site.
-Setting up the development environment
+****Setting up the development environment
 
 There are a few technical requirements before we start. Please install the following:
  Node.js v6+ LTS and npm (comes with Node)
  Git
  
- Environment
+ ***Environment
  
  Truffle v5.3.4 (core: 5.3.4)
  Solidity v0.5.16 (solc-js)
@@ -17,21 +17,24 @@ There are a few technical requirements before we start. Please install the follo
  Ganache
  Solidity
  
- To RUN
- 1. Clone this repository in your system 
+ ***To RUN
+ 
+ **1 Clone this repository in your system 
+ 
      clone https://github.com/Surbhi-sys/Jungle-Zooo.git
  
- 2. Run the development console.
+ **2. Run the development console.
+ 
         truffle develop
         
    
        
- 3. Compile and migrate the smart contracts. Note inside the development console we don't preface commands with truffle.
+ **3. Compile and migrate the smart contracts. Note inside the development console we don't preface commands with truffle.
 
        compile
        migrate
  
-4. Open another ternminal and Run the liteserver development server (outside the development console) for front-end hot reloading. Smart contract changes must be manually recompiled and migrated.
+**4. Open another ternminal and Run the liteserver development server (outside the development console) for front-end hot reloading. Smart contract changes must be manually recompiled and migrated.
 
 // Serves the front-end on http://localhost:3000
 
