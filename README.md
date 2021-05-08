@@ -23,6 +23,7 @@ There are a few technical requirements before we start. Please install the follo
  
  2. Run the development console.
         truffle develop
+        
    
        
  3. Compile and migrate the smart contracts. Note inside the development console we don't preface commands with truffle.
